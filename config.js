@@ -24,11 +24,11 @@ const taxonomy = {
 // const taxonomy = null;
 
 // specify your tags
-const tags = ["Github", "Executable", "LM", "EM", "Dataset"];
+//const tags = ["Github", "Executable", "LM", "EM", "Dataset"];
 
 
 // Uncomment this line and remove the above if you do not want to use tags
-// const tags = null;
+const tags = null;
 
 // modify this to change the text shown on each card
 // (in between the image and the taxonomy tags)
