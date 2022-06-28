@@ -8,7 +8,7 @@ const taxonomy = {
 
 	design_space:["workflow", "framework"],
 	animation:["survey", "3d"],
-	visualization:["physical", "experiement_method"],
+	visualization:["physical", "method"],
 	// facet_a: ["red", "blue"],
 	// facet_b: ["pears", "apples", "oranges"],
 	// facet_c: ["alpha", "beta", "gamma", "delta"]
