@@ -1,5 +1,5 @@
-Publication Year,Author,Title,image,URL,LM,EM,DOI,analysis,proofreading,segmentation,acquisition,design_space,alignment,Executable,Dataset,Github,Publication Title
+Publication Year,Author,Title,image,URL,design_space,animation
 
-2018,"Berger, D.; Seung, H. S.; Lichtman, Jeff W.",VAST (Volume Annotation and Segmentation Tool): Efficient Manual and Semi-Automatic Labeling of Large 3D Image Stacks,vast.png,https://www.frontiersin.org/articles/10.3389/fncir.2018.00088/full,yes,yes,10.3389/fncir.2018.00088,,Manual123,Interactive,workflow,,,yes,no,no,Frontiers in Neural Circuits
+2018,"Berger, D.; Seung, H. S.; Lichtman, Jeff W.",VAST (Volume Annotation and Segmentation Tool): Efficient Manual and Semi-Automatic Labeling of Large 3D Image Stacks,vast.png,https://www.frontiersin.org/articles/10.3389/fncir.2018.00088/full,,3d
 
-2011,"Mikkel Rønne Jakobsen, Kasper Hornbæk","Sizing up visualizations: effects of display size in focus+context, overview+detail, and zooming interfaces",Sizing up visualizations effects of display size in focus+context.png,https://dl.acm.org/doi/10.1145/1978942.1979156,no,yes,,,,workflow,,,,no,yes,no,
+2011,"Mikkel Rønne Jakobsen, Kasper Hornbæk","Sizing up visualizations: effects of display size in focus+context, overview+detail, and zooming interfaces",Sizing up visualizations effects of display size in focus+context.png,https://dl.acm.org/doi/10.1145/1978942.1979156,workflow,3d

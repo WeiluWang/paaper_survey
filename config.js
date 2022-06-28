@@ -5,12 +5,9 @@ const url = "papers.csv";
 // Note: display labels will be automatically created by capitalising
 // each word and replacing underscores with spaces.
 const taxonomy = {
-	acquisition: ["Microscale", "Nanoscale", "Vis-for-Acquisition"],
-	alignment: ["2D-Alignment", "3D-Registration"],
-	segmentation: ["Automatic", "Interactive", "Connectivity-Extraction", "Provenance-Tracking"],
-	proofreading: ["Manual", "Semi-Automatic", "Guided-Automatic", "Crowdsourced"],
-	analysis: ["Data-Structures", "Spatial-Exploration", "Connectivity-Exploration", "Vis-focused-Analysis", "Communication"],
+
 	design_space:["workflow", "framework"],
+	animation:["survey","2d&3d","3d"],
 	
 	// facet_a: ["red", "blue"],
 	// facet_b: ["pears", "apples", "oranges"],
