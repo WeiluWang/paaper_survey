@@ -7,7 +7,7 @@ const url = "papers.csv";
 const taxonomy = {
 
 	design_space:["workflow", "framework"],
-	animation:["survey","2d&3d","3d"],
+	animation:["survey", "3d"],
 	
 	// facet_a: ["red", "blue"],
 	// facet_b: ["pears", "apples", "oranges"],
