@@ -10,3 +10,4 @@ Publication Year,Author,Title,image,URL,design_space,animation,visualization
 2021,"Tong Ge, Bongshin Lee, Yunhai Wang","CAST: Authoring Data-Driven Chart Animations",cast.png,https://dl.acm.org/doi/10.1145/3411764.3445452,framework
 1999,"George Robertson, Roland Fernandez, Danyel Fisher, Bongshin Lee, John Stasko","Effectiveness of Animation in Trend Visualization",trend.png,https://ieeexplore.ieee.org/document/4658146,,2d
 2012,"Joseph A. Cottam, Andrew Lumsdaine, Chris Weaver","Watch this: A taxonomy for dynamic data visualization",watchThis.png,https://ieeexplore.ieee.org/document/6400552,,,survey
+2022,"Qing Chen, Shixiong Cao, Jiazhe Wang, Nan Cao","How Does Automation Shape the Process of Narrative Visualization: A Survey on Tools",narrativeVis.png,https://arxiv.org/abs/2206.12118,,2d,survey
