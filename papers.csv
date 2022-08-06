@@ -20,3 +20,4 @@ Publication Year,Author,Title,image,URL,design_space,animation,visualization
 2018,"Patrick Millais, Simon L. Jones, Ryan Kelly","Exploring Data in Virtual Reality: Comparisons with 2D Data Visualizations",exploreDataInVR.png,https://dl.acm.org/doi/10.1145/3170427.3188537,,3d,survey
 2020,"J.Thompson, Z.Liu, W.Li, J.Stasko","Understanding the Design Space and Authoring Paradigms for Animated Data Graphics",animatedDataGraphics.png,https://onlinelibrary-wiley-com.ezproxy.lib.vt.edu/doi/full/10.1111/cgf.13974,framework,2d,survey
 2006,"Niklas Elmqvist, Philippas Tsigas","View projection animation for occlusion reduction",projectionInteractionTechnique.png,https://dl.acm.org/doi/10.1145/1133265.1133361,,3d
+1993,"Marc H. Brown, Marc A. Najork","Algorithm animation using 3d interactive graphics",Algorithm animation using 3d interactive graphics.png,https://dl.acm.org/doi/10.1145/168642.168651,,3d
